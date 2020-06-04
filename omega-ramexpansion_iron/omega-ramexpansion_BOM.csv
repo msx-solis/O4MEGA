@@ -1,0 +1,6 @@
+"Id";"Identificador";"Empaquetado";"Cantidad";"Identificación";"Suministrador y ref";
+1;"G***";"MSXmakers19x8";1;"LOGO";;;
+2;"U1,U2,U6,U3,U4,U5,U7";"DIP-32_W15.24mm_LongPads";7;"SRAM_512Ko";;;
+3;"J1";"Pin_Header_Straight_2x20_Pitch2.54mm";1;"CONN_02X20";;;
+4;"C5,C6,C7,C1,C2,C3,C4,C8";"C_Disc_D7.5mm_W2.5mm_P5.00mm";8;"0.1 uF";;;
+5;"U8";"DIP-14_W7.62mm_LongPads";1;"74HCT08";;;
