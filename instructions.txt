@@ -1,0 +1,15 @@
+Description
+This module increases the system's RAM memory quantity and can be filled partially to obtain 1M, 1.5Mb, 2...
+Only valid for Omega Home computer because the mapper circuit is included on the Omega's mainboard.
+
+Bill of materials
+
+7x AS6C4008
+1x 74HCT08 (74HC08 or 74LS08 should be valid too)
+7x sockets 32DIP600
+1x socket 14DIP300
+8x 100nF capacitors (104) if you are going to add also the F4/FMPAC module, would be better chose SMD 1206 package for C1, C2 & C3.
+1x 2x20 straight pinheader
+1x O4MEGA PCB
+
+
